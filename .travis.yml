@@ -60,7 +60,7 @@ env:
 # either use the two lines above or the two below. Don't change the default if
 # it's not necessary (it is only necessary if modules in your repository can't
 # be installed in the same database. And you get a huge speed penalty in your
-# tests)
+# tests).
 #  - TESTS="1.0" ODOO_REPO="odoo/odoo" UNIT_TEST="1"
 #  - TESTS="1.0" ODOO_REPO="OCA/OCB" UNIT_TEST="1"
 
